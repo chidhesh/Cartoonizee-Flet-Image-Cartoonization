@@ -1,0 +1,15 @@
+# Ignore images and runtime files
+images/
+static/uploaded_images/
+static/cartoonized_images/
+static/sample_images/
+static/uploaded_videos/
+static/cartoonized_videos/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+env/
